@@ -30,7 +30,7 @@ import { Separator } from '@/components/ui/separator.jsx'
 import './App.css'
 
 // Import images
-import profileImage from './assets/SeqUusKJ7ZFm.jpg'
+import profileImage from './assets/SeqUusKJ7ZFm.webp'
 import researchImage1 from './assets/JMoQs1uoWJDw.png'
 import researchImage2 from './assets/uLZp5ghYuyuX.jpg'
 import researchImage3 from './assets/hm6MM55tlUzI.jpg'
